@@ -35,6 +35,11 @@ npm run dev -- --host 0.0.0.0
 
 
 ======================================================================================================================
+
+
+
+
+
 Dockerize this project
 =>For frontend section
 1. create a docker file inside frontend folder & paste these codes bellow
